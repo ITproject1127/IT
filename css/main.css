@@ -420,10 +420,10 @@ textarea {
   color: #29c5f6
 }
 .banner-socail li a:hover .fa-google-plus {
-  color: #2732ca
+  color: #ca3e27
 }
 .banner-socail li a:hover .fa-youtube {
-  color: #2431eb
+  color: #eb2429
 }
 .category-ad {
   background-color: #fff;
@@ -1316,7 +1316,7 @@ a.verified i {
   padding: 20px 0 40px
 }
 #something-sell.parallax-section:before {
-  background: -webkit-linear-gradient(left, rgba(78, 39, 141, 0.9) 0%, rgba(99, 134, 41, 0.9) 24%, rgba(136, 17, 57, 0.96) 77%, rgba(131, 86, 18, 0.96) 100%);
+  background: -webkit-linear-gradient(left, rgba(230, 0, 15, 0.9) 0%, rgba(230, 0, 15, 0.9) 24%, rgba(237, 20, 91, 0.96) 77%, rgba(237, 20, 91, 0.96) 100%);
 }
 #main.details-page {
   padding-bottom: 50px
